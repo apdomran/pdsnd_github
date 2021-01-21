@@ -48,4 +48,4 @@ https://stackoverflow.com/questions/21323692/convert-seconds-to-weeks-days-hours
 
 https://docs.python.org/3/tutorial/inputoutput.html
 
-@apdo.omran@gmail.com
+@apdomran
